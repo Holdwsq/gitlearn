@@ -2,4 +2,6 @@ Git is a distributed version control system
 Git is free software
 
 比较 git diff 和 git diff --cached 的不同
-12e2e2
+12e2e
+
+fdfd  dfd 2
